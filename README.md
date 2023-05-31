@@ -29,7 +29,7 @@ El objetivo de esta etapa es brindarte la oportunidad de actualizar tus conocimi
 
 **Ruta de Autoaprendizaje**
 - Es una recopilación de recursos (artículos, videos, audios) que ponemos a tu disposición para que complementes tu aprendizaje.
-- git https://skills.github.com/
+- Git using Github https://skills.github.com/
 
 **Proyecto Final (Capstone Project)**
 - Es un reto creado para poner en práctica los conocimientos adquiridos durante el entrenamiento. 
